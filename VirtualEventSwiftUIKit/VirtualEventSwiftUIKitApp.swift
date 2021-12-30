@@ -11,7 +11,7 @@ import SwiftUI
 struct VirtualEventSwiftUIKitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OverView()
         }
     }
 }
