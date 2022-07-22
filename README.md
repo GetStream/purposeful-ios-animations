@@ -14,9 +14,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
 |  [Springy Duo](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/SpringyDuoGetStarted.swift) | Making the resting state bouncy makes the animation more fun. | ![Duolingo Get Started ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/springyDuo.gif)  |  
-
 |  [Duolingo Get Started](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/DuoGetStarted.swift) | Yes, you can animate things just for fun and whimsy. The Duolingo getstarted animation makes it fun and delightful to get started to use the app. The playful animation here can help Duolingo win users over other language learning apps. | ![Duolingo Get Started ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoGetstarted.gif) |  
-
 |  [Duolingo Custom Loading](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/DuoLoading.swift) | System-provided loading indicators can sometimes feel out of context. So, create custom iOS (SwiftUI) loading animations to match your brand style and provide immersive UX like what Duolingo did for content loading | ![Duolingo Custom Loading ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoLoading.gif) | 
 
 
