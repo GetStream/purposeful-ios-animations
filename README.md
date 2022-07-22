@@ -18,12 +18,21 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |  [Duolingo Custom Loading](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/DuoLoading.swift) | System-provided loading indicators can sometimes feel out of context. So, create custom iOS (SwiftUI) loading animations to match your brand style and provide immersive UX like what Duolingo did for content loading | ![Duolingo Custom Loading ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoLoading.gif) | 
 ---
 
-### [State Change](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy)
+### [State Change](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/StateChange)
 **ANIMATION AND MEANING:** State Change
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
 |  [Menu to close](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/StateChange/HamburgerToClose.swift) | Animation can be used appropriately to indicate that a UI element has changed to a different state. For example, Morphing a hamburger menu seamlessly into a close icon. This communicates the difference between the menu and close/cancel modes. It creates a bouncy hamburger menu to close icon transition| ![Menu to close ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/menuToClose.gif)|  
+---
+
+### [Attention](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Attention)
+**ANIMATION AND MEANING:** Attention
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [Double click to install](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Attention/DoubleClickToInstall.swift) | iOS AppStore (Double-Click to Install): A great example of attracting users’ attention using animation.| ![Double click to install ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/dbClickInstall.gif)| 
+|  [Slide to power off](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Attention/SlideToPowerOff.swift) | When used in a subtle way, it can invite users to interact with it. For example, iOS slide to power off. | ![Slide to power off ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/swipeToPowerOff.gif)| 
 
 
 ### Attention
