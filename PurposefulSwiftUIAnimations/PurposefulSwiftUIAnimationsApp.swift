@@ -1,8 +1,8 @@
 //
 //  PurposefulSwiftUIAnimationsApp.swift
-//  PurposefulSwiftUIAnimations
+//  Purposeful SwiftUI Animations
 //
-//  Created by amos.gyamfi@getstream.io on 22.6.2022.
+//  Learn to create meaningful and purposeful iOS/SwiftUI animations
 //
 
 import SwiftUI
@@ -11,7 +11,12 @@ import SwiftUI
 struct PurposefulSwiftUIAnimationsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            //SettingUpFaceID()
+            //HowToSetupFaceID()
+            //CalmBreatheAnimation()
+            //DuoFireworks2()
+            ScrollInThisDirection()
         }
     }
 }
