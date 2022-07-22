@@ -5,18 +5,18 @@ Examples of animations we found to be meaningful and useful on iOS. We created a
 These animations were used for the conference talk, "**Animations Are Cool, Right?**" by Amos & Stefan at [Swift Conf 2022](https://swiftconf.com/#/)
 ----
 
-## Learn to create meaningful and purposeful iOS/SwiftUI animations
+### Learn to create meaningful and purposeful iOS/SwiftUI animations
 
 ## THE MEANING AND PURPOSE OF iOS ANIMATIONS
+### Delight and Whimsy
 
----
 
 ## iOS ANIMATION PRINCIPLES
 
----
+
 
 ## iOS ANIMATIONS BEST PRACTICES
 
----
 
-## BAD IOS ANIMATION EXAMPLES
+
+## BAD iOS ANIMATION EXAMPLES
