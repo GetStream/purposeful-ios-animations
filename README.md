@@ -23,8 +23,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-|  [Menu to close](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/StateChange/HamburgerToClose.swift) | State changes: Animation can be used appropriately to indicate that a UI element has changed to a different state.
-     - For example, Morphing a hamburger menu seamlessly into a close icon. This communicates the difference between the menu and close/cancel modes. Create a bouncy hamburger menu to close icon transition | ![Menu to close ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/menuToClose.gif) |  
+|  [Menu to close](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/StateChange/HamburgerToClose.swift) | Animation can be used appropriately to indicate that a UI element has changed to a different state. For example, Morphing a hamburger menu seamlessly into a close icon. This communicates the difference between the menu and close/cancel modes. Create a bouncy hamburger menu to close icon transition| ![Menu to close ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/menuToClose.gif)|  
 
 
 ### Attention
