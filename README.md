@@ -15,6 +15,7 @@ Yes, you can animate things just for fun and whimsy. The Duolingo getstarted ani
 | SwiftUI Animation |  Preview | 
 |---|---|
 |  [Springy Duo](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/SpringyDuoGetStarted.swift) | ![Menu - Close icon ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/springyDuo.gif)  |  
+|  [Duolingo Get Started](/DuoGetStarted.swift) | ![Menu - Close icon ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoGetstarted.gif)  |  
 
 
 ### State Change
