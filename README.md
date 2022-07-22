@@ -36,7 +36,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 - Do not keep users waiting longer than they should.
 - Loading indicators are very useful but do not make the animation run forever, For example, Deliveroo
 
-**Follow basic accessibility guidelines:**
+- **Follow basic accessibility guidelines:**
 **Why?**
 - The screen flashing rapidly can cause headache and seizure
 - People with visual disorders (vestibular):
