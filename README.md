@@ -38,11 +38,11 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 - **Follow basic accessibility guidelines:**
 **Why?**
-- The screen flashing rapidly can cause headache and seizure
-- People with visual disorders (vestibular):
-  - Excessive motion like 3D effects can cause discomfort, dizziness, and headache
-  - **Examples:** Parallax, sliding, and flashing animations
-- People may think the app is frozen or sluggish
+  - The screen flashing rapidly can cause headache and seizure
+  - People with visual disorders (vestibular):
+    - Excessive motion like 3D effects can cause discomfort, dizziness, and headache
+    - **Examples:** Parallax, sliding, and flashing animations
+  - People may think the app is frozen or sluggish
 - **Reduce Motion:** Turning off animation and motion effects
   - People who are sensitive to motion and screen effects
   - How it works:
