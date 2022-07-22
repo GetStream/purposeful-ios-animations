@@ -19,7 +19,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 ---
 
 ### [State Change](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy)
-**ANIMATION AND MEANING:** Delight and Whimsy
+**ANIMATION AND MEANING:** State Change
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
