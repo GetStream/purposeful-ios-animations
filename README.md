@@ -11,6 +11,10 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 ### Delight and Whimsy
 **ANIMATION AND MEANING:** Delight and Whimsy
 //  Yes, you can animate things just for fun and whimsy. The Duolingo getstarted animation makes it fun and delightful to get started to use the app. The playful animation here can help Duolingo win users over other language learning apps. Making the resting state bouncy makes the animation more fun.
+| SwiftUI Animation |  Preview | 
+|---|---|
+|  [Springy Duo](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/DelightAndWhimsy/DuoLingoAnimations/SpringyDuoGetStarted.swift) | ![Menu - Close icon ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/springyDuo.gif)  |  
+
 
 ### State Change
 ### Attention
