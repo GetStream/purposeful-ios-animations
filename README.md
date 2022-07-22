@@ -33,6 +33,20 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |---|---|---|
 |  [Double click to install](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Attention/DoubleClickToInstall.swift) | iOS AppStore (Double-Click to Install): A great example of attracting users’ attention using animation.| ![Double click to install ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/dbClickInstall.gif)| 
 |  [Slide to power off](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Attention/SlideToPowerOff.swift) | When used in a subtle way, it can invite users to interact with it. For example, iOS slide to power off. | ![Slide to power off ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/swipeToPowerOff.gif)| 
+---
+
+### [Guide Users](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/GuideUsers)
+**ANIMATION AND MEANING:** Guide Users
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [How to set up FaceID](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/GuideUsers/HowToSetupFaceID.swift) | - Use animation to communicate and demonstrate:
+     - Show status information: A great way to show how things change over time
+     - What will happen when a user initiates an action
+     - To provide feedback, or guide users - Describe what people need to do next. Example: How to setup FaceID | ![How to set up FaceID ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/howToSetUpFaceID.gif)| 
+|  [Breathe Animation: Calm App](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/GuideUsers/CalmBreatheAnimation.swift) | In guided meditation, animations are normally used to guide users to complete tasks. | ![Breathe Animation: Calm App ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/calmBreath.gif)| 
+|  [Fern Breathe](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/GuideUsers/FernBreathe.swift) | ✓ | ![Fern Breathe ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/fernBreath.gif)| 
+|  [Just Breathe ](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/GuideUsers/JustBreathe) | ✓ | ![Just Breathe ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/justBreath.gif)| 
 
 
 ### Attention
