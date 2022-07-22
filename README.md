@@ -31,10 +31,10 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 
 ## iOS ANIMATIONS BEST PRACTICES
-**The animation should be nimble and precise:**
-- This helps to convey information more effectively
-- Do not keep users waiting longer than they should.
-- Loading indicators are very useful but do not make the animation run forever, For example, Deliveroo
+- **The animation should be nimble and precise:**
+  - This helps to convey information more effectively
+  - Do not keep users waiting longer than they should.
+  - Loading indicators are very useful but do not make the animation run forever, For example, Deliveroo
 
 - **Follow basic accessibility guidelines:**
 **Why?**
@@ -43,6 +43,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
     - Excessive motion like 3D effects can cause discomfort, dizziness, and headache
     - **Examples:** Parallax, sliding, and flashing animations
   - People may think the app is frozen or sluggish
+  
 - **Reduce Motion:** Turning off animation and motion effects
   - People who are sensitive to motion and screen effects
   - How it works:
@@ -66,6 +67,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
               - Slowly scaling background.
               - Spinning and vortex effects (some Core Image filters): 
               - People with vestibular disorders can lose their balance
+              
   - **Use system components:**
     - In iOS, most system components automatically include motion which helps to ensure a familiar and consistent experience within your app
     - **Creating custom motion**. When you need to create a custom motion, always ensure that:
