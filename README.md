@@ -56,6 +56,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 | [Turn-taking in chat](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/TypingIndicatorsInChat.swift) | Emulate turn-taking: Typing indicators in chat messaging apps. Leverage animations for usability, and give hints about what is  happening. | ![Turn-taking in chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/typingIndicators.gif) | 
 | [Disapproving Shake ](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/DisapprovingShake.swift) | Use animation to communicate feedback. For example, the disapproving shake of FaceID signifies the need to feel ok and try again. | ![Disapproving Shake ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/disApprovingShake.gif)| 
 ---
+
 ### [Augment Feeling/Emotion](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/AugmentFeeling)
 **ANIMATION AND MEANING:** Augment Feeling/Emotion
 
@@ -82,6 +83,24 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |  [Intrinsic Motivation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation) | Intrinsic motivation (mostly in gaming apps.). For example, showing confetti or fireworks animation after users achieve something great.  Duolingo does a great job to display fireworks once you complete a lesson. | ![Intrinsic Motivation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoLessonComplete.gif)|  
 ---
 
+### [Invitation to Act](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/InvitationToAct)
+**ANIMATION AND MEANING:** Invitation to Act
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+| [Invitation to chat: No message yet](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/InvitationToAct/InvitationToChat)| No messages yet: A great way to encourage people to start their first conversation.  | ![Invitation to chat: No message yet ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/noMessageYet.gif) | 
+| [Tap this](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/InvitationToAct/TapThisButton.swift) | Drawing users' attention to act. | ![Tap this ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/tapButon.gif) | 
+| [Scroll in this direction](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/InvitationToAct/ScrollInThisDirection.swift) | Using animation to tell users to act in a certain way | ![Scroll in this direction ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/scrollInthisDirection.gif) | 
+---
+
+### [Representation of Activities](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/RepresentActivity)
+**ANIMATION AND MEANING:** Representation of Activities
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+| [Siri Amimation](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/RepresentActivity/ListeningSiriAnimation.swift)| A visual representation of hearing/listening| ![Siri Amimation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/siri.gif) | 
+| [Now playing](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/RepresentActivity/SpotifyNowPlaying.swift) | A visual representation of audio signals/ now playing | ![Animated Placeholders ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/nowPlaying.gif) | 
+| [Recording](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/RepresentActivity/RecordingAnimation.swift) | A visual representation of voice/speech recording | ![Turn-taking in chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/recording.gif) | 
 
 
 ### Natural and Realistic
