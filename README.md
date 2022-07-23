@@ -66,8 +66,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |  [YouTube Thumbnail Animation](#) | Will be added soon | ![YouTube Thumbnail Animation ](👍) | 
 
 
-### Attention
-### Guide Users
+
 ### Natural and Realistic
 ### Feedback and Hinting
 ### Augment Feeling
