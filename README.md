@@ -79,7 +79,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-|  [Intrinsic Motivation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation) | Intrinsic motivation (mostly in gaming apps.). For example, showing confetti or fireworks animation after users achieve something great.  Duolingo does a great job to display fireworks once you complete a leson. | ![Intrinsic Motivation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoLessonComplete.gif)|  
+|  [Intrinsic Motivation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation) | Intrinsic motivation (mostly in gaming apps.). For example, showing confetti or fireworks animation after users achieve something great.  Duolingo does a great job to display fireworks once you complete a lesson. | ![Intrinsic Motivation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoLessonComplete.gif)|  
 ---
 
 
