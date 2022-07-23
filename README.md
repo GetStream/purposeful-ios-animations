@@ -63,7 +63,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |---|---|---|
 |  [Twitter Like Reaction](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/AugmentFeeling/TwitterLikeReaction) | A great example of using animation to allow users express how they feel in different ways. | ![Twitter Like Reaction ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/twitterLike.gif)  |  
 |  [Messenger Reaction](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/AugmentFeeling/MessengerReactions) | Facebook Messenger Reactions Animation: A great example of using animation to allow users express how they feel in different ways. | ![Messenger Reaction ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/messengerReaction.gif) |  
-|  [YouTube Thumbnail Animation](#) | Will be added soon | ![YouTube Thumbnail Animation ](#) | 
+|  [YouTube Thumbnail Animation](#) | Will be added soon | ![YouTube Thumbnail Animation ](👍) | 
 
 
 ### Attention
