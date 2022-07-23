@@ -44,6 +44,18 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 | [Breathe Animation: Calm App](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/GuideUsers/CalmBreatheAnimation.swift) | In guided meditation, animations are normally used to guide users to complete tasks. | ![Breathe Animation: Calm App ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/calmBreath.gif) | 
 | [Fern Breathe](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/GuideUsers/FernBreathe.swift) | Here, the animation is used to give instructions to users about how to inhale and exhale. | ![Fern Breathe ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/fernBreath.gif) | 
 | [Just Breathe ](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/GuideUsers/JustBreathe) | Similaly, this animation guides users perfectly to breathe in and out. | ![Just Breathe ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/justBreath.gif)| 
+---
+
+### [Feedback and Hinting](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting)
+**ANIMATION AND MEANING:** Feedback and Hinting
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+| [Stream Loading](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/StreamLaunchscreenAnimation.swift)| System-provided loading indicators can sometimes feel out of context. So, create custom iOS (SwiftUI) loading animations to match your brand style and provide immersive UX like what Stream did for app launching | ![Stream Loading ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/streamLoading.gif) | 
+| [Animated Placeholders](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/AnimatedPlaceHolder.swift) | Shimmering: FaceBook app, Slack, Twitter
+    Leverage animations for usability, and give hints about what is  happening. | ![Animated Placeholders ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/animatedPlaceholder.gif) | 
+| [Turn-taking in chat](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/TypingIndicatorsInChat.swift) | Emulate turn-taking: Typing indicators in chat messaging apps. Leverage animations for usability, and give hints about what is  happening. | ![Turn-taking in chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/typingIndicators.gif) | 
+| [Disapproving Shake ](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/DisapprovingShake.swift) | Use animation to communicate feedback. For example, the disapproving shake of FaceID signifies the need to feel ok and try again. | ![Disapproving Shake ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/disApprovingShake.gif)| 
 
 
 ### Attention
