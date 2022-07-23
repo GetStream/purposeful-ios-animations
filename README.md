@@ -55,6 +55,15 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 | [Animated Placeholders](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/AnimatedPlaceHolder.swift) | Shimmering: FaceBook app, Slack, Twitter leverage animations for usability, and give hints about what is  happening. | ![Animated Placeholders ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/animatedPlaceholder.gif) | 
 | [Turn-taking in chat](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/TypingIndicatorsInChat.swift) | Emulate turn-taking: Typing indicators in chat messaging apps. Leverage animations for usability, and give hints about what is  happening. | ![Turn-taking in chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/typingIndicators.gif) | 
 | [Disapproving Shake ](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/FeedbackAndHinting/DisapprovingShake.swift) | Use animation to communicate feedback. For example, the disapproving shake of FaceID signifies the need to feel ok and try again. | ![Disapproving Shake ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/disApprovingShake.gif)| 
+---
+### [Augment Feeling/Emotion](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/AugmentFeeling)
+**ANIMATION AND MEANING:** Augment Feeling/Emotion
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [Twitter Like Reaction](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/AugmentFeeling/TwitterLikeReaction) | A great example of using animation to allow users express how they feel in different ways. | ![Twitter Like Reaction ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/twitterLike.gif)  |  
+|  [Messenger Reaction](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/AugmentFeeling/MessengerReactions) | Facebook Messenger Reactions Animation: A great example of using animation to allow users express how they feel in different ways. | ![Messenger Reaction ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/messengerReaction.gif) |  
+|  [YouTube Thumbnail Animation](#) | Will be added soon | ![YouTube Thumbnail Animation ](#) | 
 
 
 ### Attention
