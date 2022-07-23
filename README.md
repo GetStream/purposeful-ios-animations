@@ -88,7 +88,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-| [Invitation to chat: No message yet](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/InvitationToAct/InvitationToChat)| No messages yet: A great way to encourage people to start their first conversation.  | ![Invitation to chat: No message yet ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/noMessageYet.gif) | 
+| [Invitation to chat: No message yet](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/InvitationToAct/InvitationToChat)| No messages yet: A great way to encourage people to start their first conversation. Telegram uses similar animations in interesting ways to let people begin chattin with their love ones for the first time. | ![Invitation to chat: No message yet ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/noMessageYet.gif) | 
 | [Tap this](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/InvitationToAct/TapThisButton.swift) | Drawing users' attention to act. | ![Tap this ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/tapButon.gif) | 
 | [Scroll in this direction](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/InvitationToAct/ScrollInThisDirection.swift) | Using animation to tell users to act in a certain way | ![Scroll in this direction ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/scrollInthisDirection.gif) | 
 ---
