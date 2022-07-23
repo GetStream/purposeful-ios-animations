@@ -72,7 +72,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-|  [Express Gratitude](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/EspressGratitude/MediumClapReaction) | Expressing gratitude. For example, Medium’s Cumulative Clap Reaction | ![Express Gratitudee ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/expressGratitude.gif)|  
+|  [Express Gratitude](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/EspressGratitude/MediumClapReaction) | Expressing gratitude. For example, Medium’s Cumulative Clap Reaction | ![Express Gratitude ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/expressGratitude.gif)|  
 ---
 
 ### [Intrinsic Motivation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation)
@@ -101,7 +101,15 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 | [Siri Amimation](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/RepresentActivity/ListeningSiriAnimation.swift)| A visual representation of hearing/listening| ![Siri Amimation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/siri.gif) | 
 | [Now playing](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/RepresentActivity/SpotifyNowPlaying.swift) | A visual representation of audio signals/ now playing | ![Animated Placeholders ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/nowPlaying.gif) | 
 | [Recording](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/RepresentActivity/RecordingAnimation.swift) | A visual representation of voice/speech recording | ![Turn-taking in chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/recording.gif) | 
+---
 
+### [Decoration](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Decoration)
+**ANIMATION AND MEANING:** Decoration
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [Decoration](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Decoration) | Bubble and screen effects: confetti, fireworks, balloons | ![Decoration ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/decoration.gif)|  
+---
 
 ### Natural and Realistic
 ### Feedback and Hinting
