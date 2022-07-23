@@ -108,7 +108,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-|  [Decoration](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Decoration) | Bubble and screen effects: confetti, fireworks, balloons | ![Decoration ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/decorationAnimation.gif)|  
+|  [Decoration](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Decoration) | Bubble and screen effects: confetti, fireworks, balloons | ![Decoration ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/decoration.gif)|  
 ---
 
 ## PRINCIPLES OF iOS ANIMATIONS
