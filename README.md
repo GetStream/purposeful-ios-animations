@@ -64,6 +64,23 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |  [Twitter Like Reaction](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/AugmentFeeling/TwitterLikeReaction) | A great example of using animation to allow users express how they feel in different ways. | ![Twitter Like Reaction ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/twitterLike.gif)  |  
 |  [Messenger Reaction](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/AugmentFeeling/MessengerReactions) | Facebook Messenger Reactions Animation: A great example of using animation to allow users express how they feel in different ways. | ![Messenger Reaction ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/messengerReaction.gif) |  
 |  [YouTube Thumbnail Animation](#) | Will be added soon | ![YouTube Thumbnail Animation ](👍) | 
+---
+
+### [Express Gratitude](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/EspressGratitude/MediumClapReaction)
+**ANIMATION AND MEANING:** Express Gratitude
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [Menu to close](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/EspressGratitude/MediumClapReaction) | Expressing gratitude. For example, Medium’s Cumulative Clap Reaction | ![Menu to close ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/expressGratitude.gif)|  
+---
+
+### [State Change](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation)
+**ANIMATION AND MEANING:** State Change
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [Intrinsic Motivation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation) | Intrinsic motivation (mostly in gaming apps.). For example, showing confetti or fireworks animation after users achieve something great.  Duolingo does a great job to display fireworks once you complete a leson. | ![Menu to close ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoLessonComplete.gif)|  
+---
 
 
 
