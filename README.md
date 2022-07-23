@@ -71,15 +71,15 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-|  [Menu to close](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/EspressGratitude/MediumClapReaction) | Expressing gratitude. For example, Medium’s Cumulative Clap Reaction | ![Menu to close ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/expressGratitude.gif)|  
+|  [Express Gratitude](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/EspressGratitude/MediumClapReaction) | Expressing gratitude. For example, Medium’s Cumulative Clap Reaction | ![Express Gratitudee ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/expressGratitude.gif)|  
 ---
 
-### [State Change](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation)
-**ANIMATION AND MEANING:** State Change
+### [Intrinsic Motivation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation)
+**ANIMATION AND MEANING:** Intrinsic Motivation
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-|  [Intrinsic Motivation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation) | Intrinsic motivation (mostly in gaming apps.). For example, showing confetti or fireworks animation after users achieve something great.  Duolingo does a great job to display fireworks once you complete a leson. | ![Menu to close ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoLessonComplete.gif)|  
+|  [Intrinsic Motivation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/IntrinsicMotivation) | Intrinsic motivation (mostly in gaming apps.). For example, showing confetti or fireworks animation after users achieve something great.  Duolingo does a great job to display fireworks once you complete a leson. | ![Intrinsic Motivation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/duoLessonComplete.gif)|  
 ---
 
 
