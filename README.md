@@ -126,7 +126,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-|  [Reaction in Stream Chat](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/FollowThroughAnimation/StreamChatReactions) | Follow-through using Spring Animations: Using the principle of physics to create soft and imprecise movements. It overshoots the resting state to create fluid and bouncy animations. Learn more about [SwiftUI Spring Animations](https://github.com/GetStream/swiftui-spring-animations). **Note:** Spring animations do not belong everywhere. Before you use springs, it is good to ask, will the animation feel out of context by overshooting its resting state? | ![Reaction in Stream Chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/followThrough.gif)|  
+|  [Reactions in Stream Chat](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/FollowThroughAnimation/StreamChatReactions) | Follow-through using Spring Animations: Using the principle of physics to create soft and imprecise movements. It overshoots the resting state to create fluid and bouncy animations. Learn more about [SwiftUI Spring Animations](https://github.com/GetStream/swiftui-spring-animations). **Note:** Spring animations do not belong everywhere. Before you use springs, it is good to ask, will the animation feel out of context by overshooting its resting state? | ![Reactions in Stream Chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/followThrough.gif)|  
 ---
 
 ## iOS ANIMATIONS BEST PRACTICES
