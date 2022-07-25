@@ -119,8 +119,15 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |---|---|---|
 |  [Anticipation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/AnticipationAnimation) | Using EaseInOutBack to create anticipation: It gives users a sense of what is about to happen. Example: Transition an image from thumbnail to fullscreen. This effect causes the image to scale down slightly before it scales up to the fullscreen mode. The opposite occurs when transitioning from the fullscreen mode to the thumbnail view. | ![Anticipation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/anticipation.gif) |  
 | [Staging](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/StagingAnimation) | Use animation to prepare the viewer for changes. Direct the user’s attention to focus on the important elements on the screen. For example, number changes (Count down and count up). You can also use fade-ins. Changing data on the screen: Number of steps taken in the StepsApp. If a number changes instantly from 0 to 100. It is easy to miss what just changed. Seeing what is changing prepares the viewer’s attention and directs their focus to what’s about to happen. | ![Staging ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/staging.gif) |  
+---
 
+### [Follow Through](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/FollowThroughAnimation/StreamChatReactions)
+**ANIMATION AND MEANING:** Follow Through
 
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [Reaction in Stream Chat](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/FollowThroughAnimation/StreamChatReactions) | Follow-through using Spring Animations: Using the principle of physics to create soft and imprecise movements. It overshoots the resting state to create fluid and bouncy animations. Learn more about [SwiftUI Spring Animations](https://github.com/GetStream/swiftui-spring-animations). **Note:** Spring animations do not belong everywhere. Before you use springs, it is good to ask, will the animation feel out of context by overshooting its resting state? | ![Reaction in Stream Chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/followThrough.gif)|  
+---
 
 ## iOS ANIMATIONS BEST PRACTICES
 - **The animation should be nimble and precise:**
