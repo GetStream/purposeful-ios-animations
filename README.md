@@ -111,7 +111,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |  [Decoration](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/MeaningAndPurpose/Decoration) | Bubble and screen effects: confetti, fireworks, balloons | ![Decoration ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/decoration.gif)|  
 ---
 
-## PRINCIPLES OF iOS ANIMATIONS
+## PRINCIPLES OF GREAT & PURPOSEFUL iOS ANIMATIONS
 ### [Anticipation](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples)
 **ANIMATION PRINCIPLE:** Anticipation
 
@@ -173,9 +173,15 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
       - It does not make users overwhelmed
       - It keeps users oriented
       - It gives clear feedback in response to users’ actions
-
+---
 
 ## BAD iOS ANIMATION EXAMPLES
+### [BAD iOS ANIMATION EXAMPLES](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/BadAnimationExamples)
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [Bad notification animation](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/BadAnimationExamples/BadNotificationAnimation.swift) | Here is another example using a wrong easing for animation. The animation uses linear easing for rotating the bell icon and that causes the animation to jerk at the end. This can be improved by using easeOut, easeInOut or a custom sine curve to create a gentle rotation. Also, the bell icon icon rotates at the wrong anchor. Users always perceive a bell icon to be rotated at its hinge. That is the top. Rotating it at the center make it weird | ![Bad notification animation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/badNotificationAnimation.gif) |  
+
 ### Animation that makes users wonder: 
 Forever rotating spinner, Deliveroo
 ### Grabbing/hijacking users’ attention:
