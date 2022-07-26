@@ -10,7 +10,7 @@ struct IncomingSingleLineMessage: View {
     
     @State private var transformAndRest = false
     @State private var moveBack = true
-    @State private var reactionIcon = Image(uiImage: #imageLiteral(resourceName: "heart"))
+    @State private var reactionIcon = Image(uiImage: #imageLiteral(resourceName: "crying"))
     
     @State private var longPressed = false
     
@@ -24,7 +24,7 @@ struct IncomingSingleLineMessage: View {
             }
             
             HStack(alignment: .bottom) {
-                Image("fra")
+                Image("user_kimmy")
                     .resizable()
                     .frame(width: 32, height: 32)
                     .clipShape(Circle())
@@ -34,7 +34,7 @@ struct IncomingSingleLineMessage: View {
                     RoundedRectangle(cornerRadius: 18)
                         .fill(Color(.systemGray6))
                         .frame(width: 171, height: 36)
-                        .overlay(Text("Hi Amos, its Fra!!!"))
+                        .overlay(Text("Hi Amos, it's Kimmy"))
                         .onTapGesture(count: 2) {
                             withAnimation(.interpolatingSpring(stiffness: 170, damping: 10).repeatCount(1, autoreverses: true)) {
                                 transformAndRest = true
@@ -43,7 +43,7 @@ struct IncomingSingleLineMessage: View {
                             
                             withAnimation(
                                 .interpolatingSpring(
-                                    mass: 10,
+                                    mass: 1,
                                     stiffness: 170,
                                     damping: 15).delay(1)) {
                                 moveBack = false

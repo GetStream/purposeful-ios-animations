@@ -74,7 +74,7 @@ struct JustBreathe: View {
                 
             } // Container for flower
             .shadow(radius: showShadow ? 20 : 0) // Switching from flat to elevation
-            .hueRotation(Angle(degrees: changeColor ? -45 : 45)) // Animating Chroma
+            .hueRotation(Angle(degrees: changeColor ? -235 : 45)) // Animating Chroma
             .animation(.easeInOut(duration: 2).delay(2).repeatForever(autoreverses: true), value: changeColor)
             
             Spacer()

@@ -4,7 +4,7 @@
 //
 
 //  ANIMATION AND MEANING: Intrinsic motivation
-//  Intrinsic motivation (mostly in gaming apps.). For example, showing confetti or fireworks animation after users achieve something great.  Duolingo does a great job to display fireworks once you complete a leson.
+//  Intrinsic motivation (mostly in gaming apps.). For example, showing confetti or fireworks animation after users achieve something great.  Duolingo does a great job to display fireworks once you complete a lesson.
 //
 
 import SwiftUI

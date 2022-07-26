@@ -2,7 +2,7 @@
 //  DuoLoading.swift
 //  PurposefulSwiftUIAnimations
 
-//  ANIMATION AND MEANING: Delight, Whimsy and brand style
+//  ANIMATION AND MEANING: Delight, Whimsy and brand style.
 //  System-provided loading indicators can sometimes feel out of context. So, create custom iOS (SwiftUI) loading animations to match your brand style and provide immersive UX like what Duolingo did for content loading
 //
 
@@ -68,7 +68,7 @@ struct DuoLoading: View {
                         .offset(x: 10)
                     }
                 }
-                .rotationEffect(.degrees(isTilting ? -30 : 30))
+                .rotationEffect(.degrees(isTilting ? -30 : 3))
                 
                 
                 // Left and right hands

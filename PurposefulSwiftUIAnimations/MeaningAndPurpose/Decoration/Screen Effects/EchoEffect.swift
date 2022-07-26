@@ -2,8 +2,7 @@
 //  EchoEffect.swift
 //  iMessageClone
 //
-//  Created by Amos from getstream.io on 18.12.2021.
-//
+//  Decoration: Bubble and screen effects: confetti, fireworks, balloons
 
 import SwiftUI
 

@@ -3,7 +3,6 @@
 //  PurposefulSwiftUIAnimations
 //
 //  ANIMATION AND MEANING: Drawing users' attention
-//  A great way to encourage people to start their first conversation.
 //
 
 import SwiftUI

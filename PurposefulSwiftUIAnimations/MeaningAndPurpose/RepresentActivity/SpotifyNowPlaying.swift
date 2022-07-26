@@ -3,7 +3,7 @@
 //  Spotify Now Playing Animation
 //  SwiftUI Animation Challenge 1
 //
-//  ANIMATION AND MEANING: Representation of activities
+//  ANIMATION AND MEANING: RA visual representation of audio signals/ now playing
 
 import SwiftUI
 

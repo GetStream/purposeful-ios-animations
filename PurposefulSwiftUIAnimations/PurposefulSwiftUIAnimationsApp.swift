@@ -16,7 +16,8 @@ struct PurposefulSwiftUIAnimationsApp: App {
             //HowToSetupFaceID()
             //CalmBreatheAnimation()
             //DuoFireworks2()
-            ScrollInThisDirection()
+            //ScrollInThisDirection()
+            BadNotificationAnimation()
         }
     }
 }

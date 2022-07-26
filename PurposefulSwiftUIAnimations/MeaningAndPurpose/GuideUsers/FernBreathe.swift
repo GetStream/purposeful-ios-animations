@@ -30,7 +30,7 @@ struct FernBreathe: View {
                         .offset(y: -80)
                         .rotationEffect(.degrees(Double(item)) * angle)
                         .scaleEffect(CGFloat(scale))
-                        .blendMode(.hardLight)
+                        .blendMode(.difference)
                         .animation(.easeInOut(duration: 4).delay(0.75).repeatForever(autoreverses: true), value: scale)
                         .onAppear() {
                             angle = 60.0

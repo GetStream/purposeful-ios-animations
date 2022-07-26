@@ -2,7 +2,7 @@
 //  ListeningSiriAnimation.swift
 //  PurposefulSwiftUIAnimations
 //
-//  ANIMATION AND MEANING: Representation of activities
+//  ANIMATION AND MEANING: A visual representation of hearing/listening
 
 //
 

@@ -42,6 +42,7 @@
 		4BC930F5288A9F5200B332EE /* InboundMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC930F4288A9F5200B332EE /* InboundMessageView.swift */; };
 		4BC930F7288ABC1A00B332EE /* DefaultEasingAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC930F6288ABC1A00B332EE /* DefaultEasingAnimation.swift */; };
 		4BC930F9288AC92700B332EE /* SunAndWind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC930F8288AC92700B332EE /* SunAndWind.swift */; };
+		4BCCCF4A288FC0C9003CA7FC /* BadNotificationAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCCCF49288FC0C9003CA7FC /* BadNotificationAnimation.swift */; };
 		4BDB2D2F287D8132004BAA2D /* ListeningSiriAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDB2D2E287D8132004BAA2D /* ListeningSiriAnimation.swift */; };
 		4BDB2D31287DAC76004BAA2D /* MusicNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDB2D30287DAC76004BAA2D /* MusicNotes.swift */; };
 		4BE0AA902885585900942691 /* JustBreathe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0AA8F2885585900942691 /* JustBreathe.swift */; };
@@ -113,6 +114,7 @@
 		4BC930F4288A9F5200B332EE /* InboundMessageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InboundMessageView.swift; sourceTree = "<group>"; };
 		4BC930F6288ABC1A00B332EE /* DefaultEasingAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultEasingAnimation.swift; sourceTree = "<group>"; };
 		4BC930F8288AC92700B332EE /* SunAndWind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SunAndWind.swift; sourceTree = "<group>"; };
+		4BCCCF49288FC0C9003CA7FC /* BadNotificationAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadNotificationAnimation.swift; sourceTree = "<group>"; };
 		4BDB2D2E287D8132004BAA2D /* ListeningSiriAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningSiriAnimation.swift; sourceTree = "<group>"; };
 		4BDB2D30287DAC76004BAA2D /* MusicNotes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicNotes.swift; sourceTree = "<group>"; };
 		4BE0AA8F2885585900942691 /* JustBreathe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JustBreathe.swift; sourceTree = "<group>"; };
@@ -311,6 +313,13 @@
 			path = PhotoZoom;
 			sourceTree = "<group>";
 		};
+		4BCCCF4B288FD42E003CA7FC /* ImprovedBadExamples */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ImprovedBadExamples;
+			sourceTree = "<group>";
+		};
 		4BE0AA8B288538B400942691 /* MeaningAndPurpose */ = {
 			isa = PBXGroup;
 			children = (
@@ -470,6 +479,8 @@
 				4BF59C782876BB34008CED89 /* SlideFromTopDismissToLeft.swift */,
 				4BE0AAA8288575C500942691 /* SpinningForever.swift */,
 				4B02EE0B288939AD00314B22 /* HighjackUserAttention.swift */,
+				4BCCCF49288FC0C9003CA7FC /* BadNotificationAnimation.swift */,
+				4BCCCF4B288FD42E003CA7FC /* ImprovedBadExamples */,
 			);
 			path = BadAnimationExamples;
 			sourceTree = "<group>";
@@ -729,6 +740,7 @@
 				4B8A7D0328794D6F00EFD8D4 /* ChatIconView.swift in Sources */,
 				4BE0AA9F2885686100942691 /* SpotifyNowPlaying.swift in Sources */,
 				4BF59C982876CF8A008CED89 /* LoveEffect.swift in Sources */,
+				4BCCCF4A288FC0C9003CA7FC /* BadNotificationAnimation.swift in Sources */,
 				4B7206DC2863225E000D88EB /* CalmBreatheAnimation.swift in Sources */,
 				4BE0AAA9288575C500942691 /* SpinningForever.swift in Sources */,
 				4BE0AAA528856B1600942691 /* TapThisButton.swift in Sources */,
