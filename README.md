@@ -130,7 +130,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 ---
 
 ### [Overlapping Action](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/OverlappingAction)
-**ANIMATION AND MEANING:** Follow Through
+**ANIMATION AND MEANING:** Overlapping Action
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
