@@ -137,6 +137,20 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |  [Cascading text animation](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/OverlappingAction/CascadingTextAnimation.swift) | This principle can be used to create an object sequence and stagger by cascading/offsetting similar elements animating in the same way as well as distributing their entrances over time instead of animating them at once | ![Cascading text animation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/cascadingText.gif)|  
 ---
 
+## Esing Functions
+### [Easing](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/EasingsAndMeaning)
+
+| Easing type | Timing curve |  Usage | Example |
+|---|---|---|---|
+|  [Default](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/EasingsAndMeaning/Default) | ![Default easing](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/default.png) | This is the default system timing function.
+ It is similar to EaseInOut and ensures that the timings of your animations match that of most system animations such as iOS, watchOS, macOS, tvOS.
+ It works best for for onscreen animations | ![Default easing ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/default.gif) |
+|  [Linear: Dashes moving on a path](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/EasingsAndMeaning/Linear/StreamLogoMarchingAnts.swift) | ![Marching ants](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/linear.png) | It does not conform to natural laws of motion. It hasd a constant speed and feels mechanical rather than natural. There is an acceleration of 0 (no speedup or slowdown). Example: Animated marching ants effect | ![Marching ants ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/marchingAnts.gif) |
+|  [Linear: Dashes moving on a path](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/EasingsAndMeaning/Linear/MeasuringHeartRate.swift) | - | It does not conform to natural laws of motion. It hasd a constant speed and feels mechanical rather than natural. There is an acceleration of 0 (no speedup or slowdown). Example: Measuring Heart Rate  | ![Heart rate ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/heartRate.gif) |
+|  [LinearT Rotation](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/EasingsAndMeaning/Linear/SunAndWind.swift) | - | It does not conform to natural laws of motion. It hasd a constant speed and feels mechanical rather than natural. There is an acceleration of 0 (no speedup or slowdown). Example: Rotational animation | ![Rotation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/sunWind.gif) |
+
+---
+
 ## iOS ANIMATIONS BEST PRACTICES
 - **The animation should be nimble and precise:**
   - This helps to convey information more effectively
