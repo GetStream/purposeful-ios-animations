@@ -129,6 +129,16 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 |  [Reactions in Stream Chat](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/FollowThroughAnimation/StreamChatReactions) | Follow-through using Spring Animations: Using the principle of physics to create soft and imprecise movements. It overshoots the resting state to create fluid and bouncy animations. Learn more about [SwiftUI Spring Animations](https://github.com/GetStream/swiftui-spring-animations). **Note:** Spring animations do not belong everywhere. Before you use springs, it is good to ask, will the animation feel out of context by overshooting its resting state? | ![Reactions in Stream Chat ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/followThrough.gif)|  
 ---
 
+### [Overlapping Action](https://github.com/GetStream/purposeful-ios-animations/tree/main/PurposefulSwiftUIAnimations/AnimationPrinciples/OverlappingAction)
+**ANIMATION AND MEANING:** Follow Through
+
+| SwiftUI Animation | Meaning/purpose |  Preview | 
+|---|---|---|
+|  [Cascading text animation](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/OverlappingAction/CascadingTextAnimation.swift) | This principle can be used to create an object sequence and stagger by:
+     - Cascading and offsetting similar elements animating in the same way.
+     - Distribute their entrances over time instead of animating them at once | ![Cascading text animation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/cascadingText.gif)|  
+---
+
 ## iOS ANIMATIONS BEST PRACTICES
 - **The animation should be nimble and precise:**
   - This helps to convey information more effectively
