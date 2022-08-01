@@ -134,9 +134,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation | Meaning/purpose |  Preview | 
 |---|---|---|
-|  [Cascading text animation](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/OverlappingAction/CascadingTextAnimation.swift) | This principle can be used to create an object sequence and stagger by:
-     - Cascading and offsetting similar elements animating in the same way.
-     - Distribute their entrances over time instead of animating them at once | ![Cascading text animation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/cascadingText.gif)|  
+|  [Cascading text animation](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/OverlappingAction/CascadingTextAnimation.swift) | This principle can be used to create an object sequence and stagger by cascading/offsetting similar elements animating in the same way as well as distributing their entrances over time instead of animating them at once | ![Cascading text animation ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/cascadingText.gif)|  
 ---
 
 ## iOS ANIMATIONS BEST PRACTICES
