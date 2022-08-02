@@ -156,8 +156,7 @@ These animations were used for the conference talk, "**Animations Are Cool, Righ
 
 | SwiftUI Animation (Easing Type) | Timing Curve |  Usage | Example |
 |---|---|---|---|
-| [EaseInOutBack](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/EasingsAndMeaning/CustomEasing/SpecialEasingEffects/EaseInOutBack.swift) | ![EaseInOutBack](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/easeInOutBackCurve.png) | You can use EaseInOutBack for creating special behaviors for your animations. It goes beyond the start and end position of easeIn and easeOut. A great example can be seen in the App Store Today’s view: Tapping on any of the cards transition from their summary to the detail view. In the example used here, the EaseInOutBack pacing causes the the bell icon to move down slightly to anticipate the user before its actual sliding movement begins. 
-| ![EaseInOutBack ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/easeInOutBack.gif) |
+| [EaseInOutBack](https://github.com/GetStream/purposeful-ios-animations/blob/main/PurposefulSwiftUIAnimations/AnimationPrinciples/EasingsAndMeaning/CustomEasing/SpecialEasingEffects/EaseInOutBack.swift) | ![EaseInOutBack](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/easeInOutBackCurve.png) | You can use EaseInOutBack for creating special behaviors for your animations. It goes beyond the start and end position of easeIn and easeOut. A great example can be seen in the App Store Today’s view: Tapping on any of the cards transition from their summary to the detail view. In the example used here, the EaseInOutBack pacing causes the the bell icon to move down slightly to anticipate the user before its actual sliding movement begins. | ![EaseInOutBack ](https://github.com/GetStream/purposeful-ios-animations/blob/main/MISC/easeInOutBack.gif) |
 ---
 
 ## iOS ANIMATIONS BEST PRACTICES
