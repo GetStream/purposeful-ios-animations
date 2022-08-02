@@ -6,9 +6,9 @@
 // https://stefanblos.com/posts/animating-number-changes/
 
 /*
- Default:
- Similar to EaseInOut
- Better for onscreen animations
+ Default: Default system timing function.
+ Similar to EaseInOut and ensures that the timings of your animations match that of most system animations such as iOS, watchOS, macOS, tvOS.
+ It works best for for onscreen animations
 
  */
 

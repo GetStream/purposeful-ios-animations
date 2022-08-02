@@ -67,7 +67,7 @@ struct SpringyDuoGetStarted: View {
                     }
                 }
                 .rotationEffect(.degrees(isTilting ? 0 : 15))
-                .animation(.interpolatingSpring(stiffness: 170, damping: 5).delay(2), value: isTilting)
+                .animation(.interpolatingSpring(stiffness: 800, damping: 5).delay(2), value: isTilting)
                 
                 // Left and right hands
                 HStack(spacing: 32) {

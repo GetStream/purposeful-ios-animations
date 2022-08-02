@@ -4,7 +4,7 @@
 //
 //  Here is another example using a wrong easing for animation. The animation uses linear easing for rotating the bell icon and that causes the animation to jerk at the end. This can be improved by using easeOut, easeInOut or a custom sine curve to create a gentle rotation.
 
-//  Also, the bell icon icon rotates at the wrong anchor. Users always perceive a bell icon to be rotated at its hinge. That is the top. Rotating it at the center make it weird
+//  Also, the bell icon icon rotates at the wrong anchor. Users always perceive a bell icon to be rotated at its hinge. That is the top. Rotating it at the center make it weird.
 
 import SwiftUI
 

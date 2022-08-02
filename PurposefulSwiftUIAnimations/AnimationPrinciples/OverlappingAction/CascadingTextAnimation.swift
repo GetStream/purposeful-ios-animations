@@ -3,10 +3,10 @@
 //  HundredDaysOfSwiftUI
 //
 /* ANIMATION PRINCIPLE: Overlapping Action
-Overlapping Action/ Sequence and stagger:**
-     - Cascading and offsetting similar elements animating in the same way.
-     - Distribute their entrances over time instead of animating them at once
-     - Example: Cascading text animation
+ Overlapping Action/ Sequence and stagger:**
+ - Cascading and offsetting similar elements animating in the same way.
+ - Distribute their entrances over time instead of animating them at once
+ - Example: Cascading text animation
  */
 //
 
@@ -20,7 +20,7 @@ struct CascadingTextAnimation: View {
     
     var body: some View {
         HStack(spacing: 0) {
-            ForEach(0..<letters.count) { num in
+            ForEach(0..<letters.count, id: \.self) { num in
                 Text(String(letters[num]))
                     .padding(5)
                     .font(.title)
