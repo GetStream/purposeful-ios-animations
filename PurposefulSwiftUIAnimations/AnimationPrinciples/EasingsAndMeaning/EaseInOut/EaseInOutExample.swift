@@ -24,12 +24,8 @@ struct EaseInOutExample: View {
         
             ZStack {
                 ForEach(0 ..< 6) { item in
-                    //Circle()
                     Image(systemName: "viewfinder")
-                        //.trim(from: 0.5, to: 1)
-                        //.stroke(lineWidth: 6)
                         .font(.system(size: 150))
-                        //.frame(width: 150, height: 150, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
                         .foregroundColor(flowerColor)
                         .offset(y: -80)
                         .rotationEffect(.degrees(Double(item)) * angle)
