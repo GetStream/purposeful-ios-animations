@@ -38,7 +38,7 @@ struct AnimatableNumberModifier: AnimatableModifier {
                 Text("\(animatableData)")
                     .lineLimit(1)
                     .minimumScaleFactor(0.5)
-                    .font(.largeTitle)
+                    .font(.largeTitle.monospacedDigit())
             )
     }
 }
