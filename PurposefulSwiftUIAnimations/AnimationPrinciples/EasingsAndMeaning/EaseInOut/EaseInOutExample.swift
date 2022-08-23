@@ -25,6 +25,10 @@ struct EaseInOutExample: View {
             ZStack {
                 ForEach(0 ..< 6) { item in
                     Image(systemName: "viewfinder")
+                    //Image(systemName: "seal")
+                    //Image(systemName: "rhombus.fill")
+                    //Image(systemName: "shield")
+                    //Image(systemName: "pentagon")
                         .font(.system(size: 150))
                         .foregroundColor(flowerColor)
                         .offset(y: -80)

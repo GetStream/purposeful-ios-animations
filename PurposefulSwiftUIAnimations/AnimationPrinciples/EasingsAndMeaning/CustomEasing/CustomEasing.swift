@@ -3,7 +3,7 @@
 
 import SwiftUI
 /*
- Do you want your animation to look and feel unique? If yes, you can use custom timing functions to create, for example, the following animation effects. Sinusoidal: Gentle effects, Circular (easeInCircc): Animations that require dramatic acceleration, Exponential (easeInExpo): Exaggerated, fast, and energetic effects, Special effects: easeInOutBack. The graph of easeInOutBack Goes beyond the start and end position of easeIn and easeOut. On iOS, a great example is the App Store Today’s view: Card transition from its summary to the detail view.
+ Do you want your animation to look and feel unique? If yes, you can use custom timing functions to create, for example, the following animation effects. Sinusoidal: Gentle effects, Circular (easeInCirc): Animations that require dramatic acceleration, Exponential (easeInExpo): Exaggerated, fast, and energetic effects, Special effects: easeInOutBack. The graph of easeInOutBack Goes beyond the start and end position of easeIn and easeOut. On iOS, a great example is the App Store Today’s view: Card transition from its summary to the detail view.
  */
 
 struct CustomEasing: View {

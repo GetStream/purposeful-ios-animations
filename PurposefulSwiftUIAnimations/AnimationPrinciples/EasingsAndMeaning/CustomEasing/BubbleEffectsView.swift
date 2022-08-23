@@ -2,7 +2,7 @@
 //  BubbleEffectsView.swift
 //  iMessageClone
 //
-//  Created by Amos from getstream.io on 18.12.2021.
+//  Combined custom easing to create dramatic acceleration, fast animation and gentle effect
 //
 
 import SwiftUI

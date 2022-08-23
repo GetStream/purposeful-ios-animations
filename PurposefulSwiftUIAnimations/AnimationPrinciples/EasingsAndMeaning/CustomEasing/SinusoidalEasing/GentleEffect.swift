@@ -2,7 +2,7 @@
 //  GentleEffect.swift
 //  iMessageClone
 //
-//  Created by Amos from getstream.io
+//  This creates gentle effect using easeInOutSine
 //
 
 import SwiftUI
@@ -34,10 +34,10 @@ struct  GentleEffect: View {
             .scaleEffect(scalingUpGently ? 1.25 : 0, anchor: scalingUpGently ? .bottomTrailing : .bottomLeading)
             .scaleEffect(scalingDownGently ? 0.8 : 1.25, anchor: scalingDownGently ? .bottomTrailing : .bottomLeading)
             .task {
-                withAnimation(.easeInOut(duration: 2).delay(1)) {
+                withAnimation(.timingCurve(0.37, 0, 0.63, 1).speed(0.15).delay(1)) {
                     scalingUpGently.toggle()
                 }
-                withAnimation(.easeInOut(duration: 2).delay(4)) {
+                withAnimation(.timingCurve(0.37, 0, 0.63, 1).speed(0.25).delay(4)) {
                     scalingDownGently.toggle()
                 }
             }
