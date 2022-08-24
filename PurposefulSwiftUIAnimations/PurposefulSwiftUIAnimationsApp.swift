@@ -17,7 +17,8 @@ struct PurposefulSwiftUIAnimationsApp: App {
             //CalmBreatheAnimation()
             //DuoFireworks2()
             //ScrollInThisDirection()
-            BadNotificationAnimation()
+            //BadNotificationAnimation()
+            ReduceMotionSpring()
         }
     }
 }

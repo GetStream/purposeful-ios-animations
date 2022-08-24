@@ -50,6 +50,7 @@
 		4BC930F9288AC92700B332EE /* SunAndWind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC930F8288AC92700B332EE /* SunAndWind.swift */; };
 		4BCAD08A289BC06F004D153D /* CustomEasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCAD089289BC06F004D153D /* CustomEasing.swift */; };
 		4BCCCF4A288FC0C9003CA7FC /* BadNotificationAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCCCF49288FC0C9003CA7FC /* BadNotificationAnimation.swift */; };
+		4BCD66CB28B63DBC00C1BD39 /* ReduceMotionSpring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCD66CA28B63DBC00C1BD39 /* ReduceMotionSpring.swift */; };
 		4BDB2D2F287D8132004BAA2D /* ListeningSiriAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDB2D2E287D8132004BAA2D /* ListeningSiriAnimation.swift */; };
 		4BDB2D31287DAC76004BAA2D /* MusicNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDB2D30287DAC76004BAA2D /* MusicNotes.swift */; };
 		4BE0AA902885585900942691 /* JustBreathe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0AA8F2885585900942691 /* JustBreathe.swift */; };
@@ -129,6 +130,7 @@
 		4BC930F8288AC92700B332EE /* SunAndWind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SunAndWind.swift; sourceTree = "<group>"; };
 		4BCAD089289BC06F004D153D /* CustomEasing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomEasing.swift; sourceTree = "<group>"; };
 		4BCCCF49288FC0C9003CA7FC /* BadNotificationAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadNotificationAnimation.swift; sourceTree = "<group>"; };
+		4BCD66CA28B63DBC00C1BD39 /* ReduceMotionSpring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMotionSpring.swift; sourceTree = "<group>"; };
 		4BDB2D2E287D8132004BAA2D /* ListeningSiriAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningSiriAnimation.swift; sourceTree = "<group>"; };
 		4BDB2D30287DAC76004BAA2D /* MusicNotes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicNotes.swift; sourceTree = "<group>"; };
 		4BE0AA8F2885585900942691 /* JustBreathe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JustBreathe.swift; sourceTree = "<group>"; };
@@ -352,6 +354,14 @@
 			path = ImprovedBadExamples;
 			sourceTree = "<group>";
 		};
+		4BCD66C928B63D2900C1BD39 /* ReduceMotion */ = {
+			isa = PBXGroup;
+			children = (
+				4BCD66CA28B63DBC00C1BD39 /* ReduceMotionSpring.swift */,
+			);
+			path = ReduceMotion;
+			sourceTree = "<group>";
+		};
 		4BE0AA8B288538B400942691 /* MeaningAndPurpose */ = {
 			isa = PBXGroup;
 			children = (
@@ -374,6 +384,7 @@
 		4BE0AA8C28853CD900942691 /* AnimationBestPractices */ = {
 			isa = PBXGroup;
 			children = (
+				4BCD66C928B63D2900C1BD39 /* ReduceMotion */,
 			);
 			path = AnimationBestPractices;
 			sourceTree = "<group>";
@@ -754,6 +765,7 @@
 				4BF59C932876CF8A008CED89 /* EchoEffect.swift in Sources */,
 				4BDB2D2F287D8132004BAA2D /* ListeningSiriAnimation.swift in Sources */,
 				4BF59CAE2876E698008CED89 /* StepsCountingAnimation.swift in Sources */,
+				4BCD66CB28B63DBC00C1BD39 /* ReduceMotionSpring.swift in Sources */,
 				4B649DE2287C1489005143B7 /* MediumSplashView.swift in Sources */,
 				4B8A7CFE287949D400EFD8D4 /* FirstTimeMessageOnboarding.swift in Sources */,
 				4B5E9C21287FC24D0061ADFF /* SpringyDuoGetStarted.swift in Sources */,
